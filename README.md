@@ -13,15 +13,15 @@ L’obiettivo dello studio è stato quello di verificare, tramite tecniche stati
 
 Dataset sintetico: generato a partire da valori realistici ma non sensibili, tramite fitting statistico e simulazione con generatori di numeri casuali. Mantiene le stesse distribuzioni e strutture temporali del dataset originale, ma non contiene dati riservati.
 
-Notebook di analisi: mostra le principali fasi del lavoro:
+Il notebook di analisi mostra le principali fasi del lavoro:
 
-Anonimizzazione delle entità e delle metriche,
+- Anonimizzazione delle entità e delle metriche,
 
-Calcolo di statistiche descrittive (media, varianza, distribuzioni),
+- Calcolo di statistiche descrittive (media, varianza, distribuzioni),
 
-Generazione del dataset sintetico coerente,
+- Generazione del dataset sintetico coerente,
 
-Analisi statistica (correlazioni, regressioni, test non parametrici).
+- Analisi statistica (correlazioni, regressioni, test non parametrici).
 
 ⚙️ Note metodologiche
 
