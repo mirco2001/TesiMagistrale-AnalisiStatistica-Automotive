@@ -2,7 +2,7 @@
 Analisi sperimentale di KPI manifatturieri in ambito automotive. Contiene dataset sintetico (derivato da dati reali, ma non sensibili) e notebook con le procedure di anonimizzazione, generazione e analisi statistica.
 
 
-📊 Analisi Statistica su KPI Manifatturieri (Dataset Sintetico)
+📊 Analisi Statistica su KPI Manifatturieri
 
 Questo repository contiene il materiale a supporto della tesi magistrale:
 “Analisi sperimentale delle relazioni tra fattori gestionali e indicatori di performance in un’azienda manifatturiera del settore automotive”.
