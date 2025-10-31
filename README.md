@@ -28,5 +28,4 @@ Notebook di analisi: illustra le principali fasi del lavoro:
 ⚙️ Note metodologiche
 
 Il dataset originale non è incluso per ragioni di policy aziendale.
-I dati forniti sono repliche sintetiche costruite a partire dalle proprietà statistiche di base (media, varianza, distribuzione empirica).
 Tutte le analisi riportate nella tesi sono state condotte utilizzando esclusivamente il dataset sintetico
