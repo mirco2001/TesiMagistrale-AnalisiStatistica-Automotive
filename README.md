@@ -17,13 +17,13 @@ La procedura consente di riprodurre le distribuzioni originali mantenendo coeren
 
 Notebook di analisi: illustra le principali fasi del lavoro:
 
-Anonimizzazione delle entità e delle metriche;
+- Anonimizzazione delle entità e delle metriche;
 
-Calcolo di statistiche descrittive (media, varianza, distribuzioni);
+- Calcolo di statistiche descrittive (media, varianza, distribuzioni);
 
-Generazione del dataset sintetico tramite KDE;
+- Generazione del dataset sintetico tramite KDE;
 
-Analisi statistica (correlazioni, regressioni, test robusti).
+- Analisi statistica (correlazioni, regressioni, test robusti).
 
 ⚙️ Note metodologiche
 
