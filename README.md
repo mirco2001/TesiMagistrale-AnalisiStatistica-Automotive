@@ -25,15 +25,17 @@ Notebook di analisi: illustra le principali fasi del lavoro:
 
 1. Clonare o scaricare il repository: 
 git clone https://github.com/mirco2001/TesiMagistrale-AnalisiStatistica-Automotive.git
+
 cd TesiMagistrale-AnalisiStatistica-Automotive
 
-2. Installare le dipendenze
+3. Installare le dipendenze
+   
 Assicurarsi di avere Python ≥ 3.9 installato, poi eseguire: pip install -r requirements.txt
 
-3. Caricare il dataset sintetico e avviare le successive celle
+4. Caricare il dataset sintetico e avviare le successive celle
 Nel notebook principale è sufficiente eseguire la cella che permette l'import del dataset.
 
-4. Riproduzione completa dei risultati
+5. Riproduzione completa dei risultati
 Eseguendo l’intero notebook è possibile ricostruire tutte le analisi e le figure incluse nella tesi, garantendo completa replicabilità del lavoro.
 
 ⚙️ Note metodologiche
