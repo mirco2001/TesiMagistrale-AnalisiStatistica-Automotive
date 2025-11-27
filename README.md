@@ -4,7 +4,7 @@ Questo repository contiene il materiale sviluppato per la tesi magistrale:
 
 “Analisi sperimentale delle relazioni tra fattori gestionali e indicatori di performance in un’azienda manifatturiera del settore automotive.”
 
-L’obiettivo del lavoro è valutare, attraverso tecniche statistiche descrittive e inferenziali, se esistano relazioni significative tra alcune metriche organizzative/gestionali e i principali KPI aziendali (qualità, sicurezza, persone, costi e delivery).
+L’obiettivo del lavoro è valutare, attraverso tecniche statistiche descrittive e inferenziali, se esistano relazioni significative tra alcune metriche organizzative/gestionali e i principali KPI aziendali (quality, safety, people, cost e delivery).
 
 Il dataset utilizzato è completamente sintetico, generato tramite Kernel Density Estimation (KDE) a partire da dati reali ma non sensibili, nel pieno rispetto delle policy aziendali.
 
