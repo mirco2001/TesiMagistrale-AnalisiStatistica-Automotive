@@ -1,14 +1,12 @@
 # **TesiMagistrale-AnalisiStatistica-Automotive**
 
-Analisi sperimentale di KPI manifatturieri in ambito automotive.
-Contiene un dataset sintetico (derivato da dati reali ma non sensibili) e notebook con le procedure di anonimizzazione, generazione e analisi statistica.
+Questo repository contiene il materiale sviluppato per la tesi magistrale:
 
-📊 Analisi Statistica su KPI Manifatturieri
-
-Questo repository contiene il materiale a supporto della tesi magistrale:
 “Analisi sperimentale delle relazioni tra fattori gestionali e indicatori di performance in un’azienda manifatturiera del settore automotive.”
 
-L’obiettivo dello studio è verificare, tramite tecniche statistiche descrittive e inferenziali, se esistano relazioni significative tra alcune metriche organizzative/gestionali e i principali KPI aziendali (qualità, costi, produttività, sicurezza e delivery).
+L’obiettivo del lavoro è valutare, attraverso tecniche statistiche descrittive e inferenziali, se esistano relazioni significative tra alcune metriche organizzative/gestionali e i principali KPI aziendali (qualità, sicurezza, persone, costi e delivery).
+
+Il dataset utilizzato è completamente sintetico, generato tramite Kernel Density Estimation (KDE) a partire da dati reali ma non sensibili, nel pieno rispetto delle policy aziendali.
 
 📂 Contenuto del repository
 
@@ -24,6 +22,21 @@ Notebook di analisi: illustra le principali fasi del lavoro:
 - Generazione del dataset sintetico tramite KDE;
 
 - Analisi statistica (correlazioni, regressioni, test robusti).
+
+🔁 Come replicare l’analisi
+
+1. Clonare o scaricare il repository: 
+git clone https://github.com/mirco2001/TesiMagistrale-AnalisiStatistica-Automotive.git
+cd TesiMagistrale-AnalisiStatistica-Automotive
+
+2. Installare le dipendenze
+Assicurarsi di avere Python ≥ 3.9 installato, poi eseguire: pip install -r requirements.txt
+
+3. Caricare il dataset sintetico e avviare le successive celle
+Nel notebook principale è sufficiente eseguire la cella che permette l'import del dataset.
+
+4. Riproduzione completa dei risultati
+Eseguendo l’intero notebook è possibile ricostruire tutte le analisi e le figure incluse nella tesi, garantendo completa replicabilità del lavoro.
 
 ⚙️ Note metodologiche
 
