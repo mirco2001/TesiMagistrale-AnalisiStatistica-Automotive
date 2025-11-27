@@ -27,7 +27,7 @@ Notebook di analisi: illustra le principali fasi del lavoro:
 
 3. Installare le dipendenze. Assicurarsi di avere Python ≥ 3.9 installato, poi eseguire: pip install -r requirements.txt
 
-4. Caricare il dataset sintetico e avviare le successive celle. Nel notebook principale dopo aver scaricato il data è necessario eseguire la cella che permette l'import; dopodichè si possono avviare le successive celle.
+4. Caricare il dataset sintetico e avviare le successive celle. Nel notebook principale dopo aver scaricato il dataset è necessario eseguire la cella che permette l'import; dopodichè si possono avviare le successive celle.
 
 5. Riproduzione completa dei risultati. Eseguendo l’intero notebook è possibile ricostruire tutte le analisi e le figure incluse nella tesi, garantendo completa replicabilità del lavoro.
 
