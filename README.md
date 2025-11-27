@@ -6,12 +6,10 @@ Questo repository contiene il materiale sviluppato per la tesi magistrale:
 
 L’obiettivo del lavoro è valutare, attraverso tecniche statistiche descrittive e inferenziali, se esistano relazioni significative tra alcune metriche organizzative/gestionali e i principali KPI aziendali (quality, safety, people, cost e delivery).
 
-Il dataset utilizzato è completamente sintetico, generato tramite Kernel Density Estimation (KDE) a partire da dati reali ma non sensibili, nel pieno rispetto delle policy aziendali.
-
 📂 Contenuto del repository
 
-Dataset sintetico: generato a partire da valori realistici ma non sensibili, tramite Kernel Density Estimation (KDE) e fitting statistico.
-La procedura consente di riprodurre le distribuzioni originali mantenendo coerenza temporale e struttura delle variabili, senza includere dati riservati.
+Dataset sintetico: generato a partire da valori realistici, tramite Kernel Density Estimation (KDE) e fitting statistico.
+La procedura consente di riprodurre le distribuzioni originali mantenendo coerenza temporale e struttura delle variabili, senza includere dati riservati nel pieno rispetto delle policy aziendali.
 
 Notebook di analisi: illustra le principali fasi del lavoro:
 
